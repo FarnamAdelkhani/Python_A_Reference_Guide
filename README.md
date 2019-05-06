@@ -10,6 +10,6 @@ These tips are mostly compiled from talks by Python Core Developer, Raymond Hett
 <br>
 
 View the jupyter notebook through the following nbviewer link:
-https://nbviewer.jupyter.org/github/FarnamAdelkhani/pythonSkills/blob/master/pythonSkills.ipynb
+https://nbviewer.jupyter.org/github/FarnamAdelkhani/Python_referenceGuide/blob/master/pythonSkills.ipynb
 
 
