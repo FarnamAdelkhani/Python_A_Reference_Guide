@@ -2,7 +2,7 @@
 
 ### I'd recommend viewing with Binder instead of Github: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/FarnamAdelkhani/Python_referenceGuide/blob/may2019/pythonTransformations.ipynb/master)
 
-### Another option is Jupyter NBViewer: <a href="https://github.com/FarnamAdelkhani/Python_referenceGuide/blob/may2019/pythonTransformations.ipynb" target="_blank">NBViewer</a>
+### Another option is Jupyter NBViewer: <a href="https://nbviewer.jupyter.org/github/FarnamAdelkhani/Python_referenceGuide/blob/may2019/pythonTransformations.ipynb" target="_blank">NBViewer</a>
 
 
 <p align="center">
